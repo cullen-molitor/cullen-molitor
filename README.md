@@ -17,6 +17,5 @@ Ventura CA
 
 <hr>
 
-![]()
 
 
