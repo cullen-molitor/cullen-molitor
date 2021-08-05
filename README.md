@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align='center'> Cullen Molitor </h1>
 
-<!--
-**cullen-molitor/cullen-molitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## Education
+Master of Environmental Data Science (MEDS) Candidate <br>
+Bren School of Environmental Science and Managment <br>
+UC Santa Barbara <br>
+Santa Barbara CA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## Employment History
+Biological Science Technician (Fisheries Diver) <br>
+Channel Islands National Park <br>
+Ventura CA
+
+<hr>
+
+![]()
+
+
