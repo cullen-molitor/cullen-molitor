@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=cullen-molitor&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cullen-molitor)](https://github.com/cullen-molitor/github-readme-stats)
